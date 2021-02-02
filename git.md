@@ -6,3 +6,8 @@ commit -m "Add README.md"
 git remote add origin https://github.com/matthewdillard miniature-train.git
 git branch -M main
 git push -u origin main
+git add .
+git commit -m "Add conflicting course information"
+git push
+git pull
+git 
